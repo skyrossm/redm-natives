@@ -12893,7 +12893,7 @@
                 o = e.state;
             return T.a.createElement(T.a.Fragment, null, T.a.createElement("header", null, T.a.createElement("div", {
                 className: "branding"
-            }, "RedM ", T.a.createElement("span", null, "Native Reference")), T.a.createElement("input", {
+            }, "RedM ", T.a.createElement("span", null, "Native Reference (unofficial)")), T.a.createElement("input", {
                 type: "search",
                 placeholder: "Search...",
                 name: "search",
